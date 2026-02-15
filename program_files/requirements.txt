@@ -1,0 +1,6 @@
+byaldi
+colpali-engine
+qdrant-client
+ollama
+pypdf
+pillow
